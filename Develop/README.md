@@ -33,10 +33,6 @@ If you have any questions feel free to contact me here:
 
 ##### Email: [thejakethree989@gmail.com](mailto:thejakethree989@gmail.com?subject=[GitHub])
 
-## Testing
-
-[No need]
-
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
@@ -45,4 +41,8 @@ You have the freedom to do as you like with this permissive software, as long as
 
 ## Application Image
 
-![Image of Application](https://github.com/thejake989/NoteTaker.git)
+![Image of Application](./public/assets/images/sample1.jpg)
+
+### Working sample note
+
+![Image of Application](./public/assets/images/sample2.jpeg)
