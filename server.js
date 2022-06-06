@@ -6,7 +6,7 @@ const path = require("path");
 const app = express();
 
 // Active port selection
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || "8080";
 
 // Data parsing through Express
 app.use(express.urlencoded({ extended: false }));
