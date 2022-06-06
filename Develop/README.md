@@ -39,6 +39,10 @@ If you have any questions feel free to contact me here:
 
 You have the freedom to do as you like with this permissive software, as long as an original copy and license notice is included. I cannon be held liable for this software.
 
+## Application Link
+
+https://thejake989.github.io/NoteTaker/
+
 ## Application Image
 
 ![Image of Application](./public/assets/images/sample1.jpg)
