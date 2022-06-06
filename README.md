@@ -6,11 +6,9 @@
 
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Testing](#testing)
 - [Questions](#questions)
 - [License](#license)
+- [Application Link](#application-link)
 - [Application Image](#application-image)
 
 ## Description
@@ -45,8 +43,8 @@ https://thejake989.github.io/NoteTaker/
 
 ## Application Image
 
-![Image of Application](./public/assets/images/sample1.jpg)
+![Image of Application](./Develop/public/assets/images/sample1.jpg)
 
 ### Working sample note
 
-![Image of Application](./public/assets/images/sample2.jpeg)
+![Image of Application](./Develop/public/assets/images/sample2.jpeg)
