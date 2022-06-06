@@ -20,5 +20,5 @@ require("./routes/htmlRoutes")(app);
 
 // App listener
 app.listen(PORT, function () {
-  console.log("App listening on PORT: http://127.0.0.1:" + PORT);
+  console.log("App listening on PORT: " + PORT);
 });
