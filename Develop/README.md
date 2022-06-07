@@ -39,7 +39,7 @@ You have the freedom to do as you like with this permissive software, as long as
 
 ## Application Link
 
-https://thejake989.github.io/NoteTaker/
+https://notetaker-29.herokuapp.com/
 
 ## Application Image
 

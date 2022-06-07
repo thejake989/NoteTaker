@@ -14,7 +14,7 @@ app.use(express.json());
 // Serving static files in Express, so it will load the files that are in the public directory
 app.use(express.static(path.join(__dirname, "public")));
 
-// Route
+// Routes
 require("./routes/apiRoutes")(app);
 require("./routes/htmlRoutes")(app);
 
