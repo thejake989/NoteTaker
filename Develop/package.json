@@ -4,7 +4,7 @@
   "description": "express server and Heroku for week 11 homework",
   "main": "server.js",
   "scripts": {
-    "start": "npm start",
+    "start": "node server.js",
     "watch": "nodemon server.js"
   },
   "author": "",
